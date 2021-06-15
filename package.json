@@ -1,0 +1,24 @@
+{
+  "name": "knowedcss",
+  "version": "1.0.0",
+  "description": "KnowedCSS, the node.js module for KnowCSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/knowcss/knowedcss.git"
+  },
+  "keywords": [
+    "nocss",
+    "knowcss",
+    "knowedcss"
+  ],
+  "author": "Jeremy Anderson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/knowcss/knowedcss/issues"
+  },
+  "homepage": "https://github.com/knowcss/knowedcss#readme"
+}
