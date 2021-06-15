@@ -7,6 +7,8 @@
 
 'use strict';
 
+const replace = require('replace');
+
 /**
  * ```js
  * var knowedCSS = require('knowedcss');
