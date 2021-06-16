@@ -2,8 +2,10 @@
 KnowedCSS, the node.js module for KnowCSS
 <br>https://www.knowcss.com/
 <br>
+<br>install:
 <br>npm install knowcss
 <br>
+<br>run:
 <br>const knowedcss = require('knowcss');
 <br>const replace = require('replace');
 <br>var ret = knowedcss('<div class=\"font-size-16px\">Hello, world!</div>');
