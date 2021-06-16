@@ -11,5 +11,5 @@ KnowedCSS, the node.js module for KnowCSS
 <br>console.log('html -> ' + ret[2]);
 <br>
 <br>output:
-<br>css -> define{display:none!important;visibility:hidden!important;height:0px!important;width:0px!important;padding:0px!important;margin:0px!important}.iy{font-size:16px}
+<br>css -> define{display:none!important; visibility:hidden!important; height:0px!important; width:0px!important; padding:0px!important; margin:0px!important} .iy{font-size:16px}
 <br>html -> <div class="iy">Hello, world!</div>
